@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microscopy Fluorescence Workflow"
+  short_description: "Standardize microscopy fluorescence analysis"
+  default_prompt: "Use $microscopy-fluorescence-workflow to organize microscopy images, quantify fluorescence, prepare Prism tables, and build image-summary slides with explicit confirmation gates."
